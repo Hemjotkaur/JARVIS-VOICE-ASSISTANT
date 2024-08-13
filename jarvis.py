@@ -105,5 +105,5 @@ if __name__ == "__main__":
                 speak("sorry! Not Sent.")       
 
         elif 'quit' in query:
-            speak("Have a good day sir, bye")
+            speak("Have a good day mam, bye")
             exit()        
